@@ -1,6 +1,6 @@
-<mxfile modified="2022-07-06T18:06:14.491Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="hVSPuGHub80HcYy71FW4" version="20.0.4" type="github">
+<mxfile modified="2022-07-23T11:07:52.302Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="kzR6NAMRvynFOOZ-bJ6A" version="20.2.0" type="github">
   <diagram id="MeNSXRW36sjKSdI7cYYw" name="Page-1">
-    <mxGraphModel dx="1502" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,13 +83,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NU75y0YXBvxGrzugc1HJ-17" value="Array &amp;amp; ArrayList" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="NU75y0YXBvxGrzugc1HJ-17" value="Array &amp;amp; ArrayList" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="2.5" y="139.5" width="260" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="NU75y0YXBvxGrzugc1HJ-18" value="Pointers, Class, Methods" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="NU75y0YXBvxGrzugc1HJ-18" value="&amp;nbsp;Class, Methods" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="5" y="153" width="260" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="NU75y0YXBvxGrzugc1HJ-19" value="Interface" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="NU75y0YXBvxGrzugc1HJ-19" value="Interface" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="5" y="165" width="260" height="15" as="geometry" />
         </mxCell>
         <mxCell id="NU75y0YXBvxGrzugc1HJ-20" value="Thread, Routine" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
@@ -131,8 +131,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NU75y0YXBvxGrzugc1HJ-25" value="GIT" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="32" y="304" width="260" height="15" as="geometry" />
+        <mxCell id="NU75y0YXBvxGrzugc1HJ-25" value="GIT" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="210" y="304" width="82" height="16" as="geometry" />
         </mxCell>
         <mxCell id="NU75y0YXBvxGrzugc1HJ-26" value="&lt;font color=&quot;#cccccc&quot;&gt;HTTP/HTTPS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="32" y="319" width="260" height="15" as="geometry" />
@@ -338,8 +338,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NU75y0YXBvxGrzugc1HJ-139" value="Exception handling" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="5" y="190" width="258" height="15" as="geometry" />
+        <mxCell id="NU75y0YXBvxGrzugc1HJ-139" value="Exception handling" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="80" y="190" width="183" height="15" as="geometry" />
         </mxCell>
         <mxCell id="NU75y0YXBvxGrzugc1HJ-140" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -483,7 +483,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NU75y0YXBvxGrzugc1HJ-208" value="Variables, Constants, Types, Function, Packages, etc" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="NU75y0YXBvxGrzugc1HJ-208" value="Variables, Constants, Types, Function, Packages, etc" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry y="122.5" width="260" height="15" as="geometry" />
         </mxCell>
         <mxCell id="NU75y0YXBvxGrzugc1HJ-209" value="&lt;pre&gt;&lt;span&gt;Spring&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=9;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -788,7 +788,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aT2a3QYtW6NNwh8hWAp5-23" value="OOP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="aT2a3QYtW6NNwh8hWAp5-23" value="OOP" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="545" y="195" width="260" height="15" as="geometry" />
         </mxCell>
         <mxCell id="aT2a3QYtW6NNwh8hWAp5-24" value="Memory model" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
@@ -851,7 +851,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aT2a3QYtW6NNwh8hWAp5-33" value="BigO" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="7" y="205" width="258" height="15" as="geometry" />
+          <mxGeometry x="120" y="205" width="145" height="15" as="geometry" />
         </mxCell>
         <mxCell id="aT2a3QYtW6NNwh8hWAp5-35" value="Microservice vs Monloith" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="-43.5" y="1241.5" width="152.5" height="20" as="geometry" />
