@@ -1,6 +1,6 @@
-<mxfile modified="2022-08-02T19:42:25.454Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="qqlTPO3lFdZP_R3Hb32L" version="20.2.2" type="github">
+<mxfile modified="2022-11-18T20:06:51.805Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="F8Ts5Oh6I833dM25CkxO" version="20.5.3" type="github">
   <diagram id="MeNSXRW36sjKSdI7cYYw" name="Page-1">
-    <mxGraphModel dx="1391" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,7 +581,7 @@
         <mxCell id="NU75y0YXBvxGrzugc1HJ-239" value="Basic Sql Syntax" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="343" y="280" width="72.82" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="NU75y0YXBvxGrzugc1HJ-240" value="Scrum, Kanban or other project strategies" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="NU75y0YXBvxGrzugc1HJ-240" value="Scrum, Kanban or other project strategies" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="31" y="348" width="260" height="15" as="geometry" />
         </mxCell>
         <mxCell id="NU75y0YXBvxGrzugc1HJ-249" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#314354;fillColor=#647687;fontFamily=Verdana;fontSize=14;align=center;fontColor=#ffffff;" parent="1" vertex="1">
